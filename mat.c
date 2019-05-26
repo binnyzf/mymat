@@ -82,7 +82,7 @@ void stop()
 }
 
 /**
- * Adds a matrix to another and stores the result int he third
+ * Adds a matrix to another and stores the result in the third
  * */
 
 void add_mat()
@@ -123,7 +123,7 @@ void trans_mat()
 }
 
 /**
- * Adds a matrix to another and stores the result in the third
+ * Subtracts a matrix from another and stores the result in the third
  * */
 
 void sub_mat()
