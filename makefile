@@ -1,6 +1,5 @@
 #
 # In order to execute this "Makefile" just type "make"
-#	A. Delis (ad@di.uoa.gr)
 #
 
 OBJS	= mat.o handler.o mymat.o
