@@ -31,6 +31,7 @@ int error(int err_num,char* str){
             break;
         default:
             fprintf(stderr,"Uncaught error check your command:%s against syntax\n",str);
+            syntax();
             break;
 
 
@@ -63,10 +64,10 @@ void syntax(){
 
 void welcome(){
 
-
+  
     printf(
             "************************************************************************\n"
-            "******************* Welcome to the Maman 22 ****************************\n"
+            "***********************  Welcome to My mat *****************************\n"
             "************************************************************************\n"
             "           you can enter commands to operates on matrix\n"
             "              List and syntax of possible commands:\n\n"
