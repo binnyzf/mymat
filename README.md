@@ -1,2 +1,16 @@
 # mymat
 command line prog to use on matrix operations
+            "************************************************************************\n"
+            "******************* Welcome to the Maman 22 ****************************\n"
+            "************************************************************************\n"
+            "           you can enter commands to operates on matrix\n"
+            "              List and syntax of possible commands:\n\n"
+                            "Enter your command as shown below \n"
+            * operation to perform* *space* parameters delim by , \n"
+           "read_mat MAT_A,53,78,-978,3.1415,...\t(up to 16 params)\n"
+           "print_mat MAT_B   *syntax* -> MAT[A->F]\n"
+           "add_mat mat_b,mat_c,MAT_F  \tsyntax*-> mat[a]+mat[b]=mat[c]\n"
+           "sub_mat       same as add_mat       \n"
+           "mul-mat       same as add_mat       \n"
+           "trans_mat MAT_A,MAT_E   transpose the matrix (can be the same one)\n"
+           "stop   \tto stop TYPE ONLY stop WITHOUT ANY PARAMS\n\n\n"
