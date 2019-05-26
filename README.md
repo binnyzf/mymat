@@ -1,4 +1,3 @@
-# mymat
 # My mat
 
 ## Introduction
@@ -10,7 +9,8 @@
 
 ## Code Samples
 
-> * operation to perform* space* parameters delim by ,
+> ** operation to perform** space* parameters delim by ,
+
            read_mat MAT_A,53,78,-978,3.1415,...(up to 16 params)
            print_mat MAT_B   *syntax* -> MAT[A->F]
            add_mat mat_b,mat_c,MAT_F  syntax*-> mat[a]+mat[b]=mat[c]
@@ -18,10 +18,8 @@
            mul-mat       same as add_mat       
            trans_mat MAT_A,MAT_E   transpose the matrix (can be the same one)
            stop   to stop TYPE ONLY stop WITHOUT ANY PARAMS
-
-## Installation
-
->**Please Pay attention to the syntax**
+           
+ >**Please Pay attention to the syntax**
              
                    COMMAND_NAMES_ARE_IN_ONE_WORD => THEN HIT SPACE
                    MAT_(A-F)----(MUST BE ALL CAPS)
@@ -37,6 +35,10 @@
                    trans_mat
                    stop
 
+## Installation
 
-              ** see commands full parameters above**
-                  Thank you
+             download or clone 
+             hit make
+
+
+>Thank you
